@@ -32,29 +32,7 @@ The application runs entirely in the terminal and uses a simple numbered menu sy
 
 Example menu:
 
-=== Medical Practice (Console) ===
-
-1. Add a patient
-
-2. Search patient (by NSS)
-
-3. List all patients
-
-4. Show full patient history
-
-5. Schedule a consultation
-
-6. Show upcoming consultations
-
-7. Mark consultation as completed
-
-8. Cancel a consultation
-
-9. Add diagnosis to consultation
-
-10. Add prescription to consultation
-
-0. Exit
+![Menu](readme/menu.png)
 
 The user simply enters the corresponding number to perform an action.
 
